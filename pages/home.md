@@ -7,6 +7,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Spaceways is on a journey to make the world more livable.
+# Spaceways is on a journey to make your city more livable.
 
-Our mission is to measure livability through data.
+We offer a set of digital tools and products that hopes to answer the question of what livability "really" means. We intend to deliver rich insights that align the idea of livability to the <a href="https://sdgs.un.org/goals">UN Social Development Guidelines</a> for government, property, and commercial through our two different products, Atlas and Enquire.
